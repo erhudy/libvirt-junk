@@ -1,0 +1,27 @@
+<volume type='file'>
+  <name>ubuntu24.04.qcow2</name>
+  <key>/var/lib/libvirt/images/ubuntu24.04.qcow2</key>
+  <capacity unit='bytes'>26843545600</capacity>
+  <allocation unit='bytes'>53481472</allocation>
+  <physical unit='bytes'>26847870976</physical>
+  <target>
+    <path>/var/lib/libvirt/images/ubuntu24.04.qcow2</path>
+    <format type='qcow2'/>
+    <permissions>
+      <mode>0600</mode>
+      <owner>64055</owner>
+      <group>992</group>
+    </permissions>
+    <timestamps>
+      <atime>1752363833.303520560</atime>
+      <mtime>1752363832.992568694</mtime>
+      <ctime>1752363833.293513786</ctime>
+      <btime>0</btime>
+    </timestamps>
+    <compat>1.1</compat>
+    <clusterSize unit='B'>65536</clusterSize>
+    <features>
+      <lazy_refcounts/>
+    </features>
+  </target>
+</volume>
